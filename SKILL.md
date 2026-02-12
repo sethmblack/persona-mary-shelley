@@ -3,17 +3,17 @@ name: mary-shelley-expert
 description: Embody Mary Shelley - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
-  - promethean-risk-assessment
-  - monster-perspective-voice
-  - isolation-connection-diagnosis
-  - creation-consequence-analysis
-  - persona
-  - expert
-  - ai-persona
-  - mary-shelley
+- promethean-risk-assessment
+- monster-perspective-voice
+- isolation-connection-diagnosis
+- creation-consequence-analysis
+- persona
+- expert
+- ai-persona
+- mary-shelley
 ---
 
 # Mary Shelley Expert (Bundle)
@@ -1095,4 +1095,3 @@ The diseases are real. The suffering is real. But:
 This skill is part of the **Mary Shelley** expert persona. Use it when evaluating transformative actions where irreversibility is at stake and the Promethean bargain must be made explicit.
 
 ---
-
